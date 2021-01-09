@@ -10,6 +10,7 @@ Version 1.0 ~ BETA
 # Features : 
 
 -Simpler Design..
+<br>
 -Avoid protect from spam submit.
 
 # Bug :
@@ -19,15 +20,19 @@ Version 1.0 ~ BETA
 # Q & A Question :
 
 Q : Why not add auto detect status server?
+<br>
 A : to avoid injecten website and protect our your server.
 
 Q : Why not add form login or register?
+<br>
 A : i cannot do it, because i think its not include form login register it is simpler.
 
 Q : So, it can be protection for SQLi ?
+<br>
 A : i think yes 50%
 
 Q : Why not add admin panel for edit or delete all server list ??
+<br>
 A : i cannot create it, because for security reason. you know because admin panel it's can be hacks or exploit.., so i not create it, but you can use Adminer or SqlBuddy.. xD
 
 
